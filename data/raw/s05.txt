@@ -1,0 +1,272 @@
+HDFC Mid Cap Fund Direct Growth
+Equity
+Mid Cap
+Very High Risk
++15.54
+%
+3Y annualised
+-0.76
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 30 Oct '26
+₹215.99
+Min. for SIP
+₹100
+Fund size (AUM)
+₹1,01,856.06 Cr
+Expense ratio
+0.74%
+Rating
+4
+Return calculator
+Monthly SIP
+One time
+Monthly investment
+₹5,000
+Over the past: 1 year, Total investment: ₹60,000, Would've become: ₹58,514, Returns: -2.48 %
+Over the past: 3 years, Total investment: ₹1,80,000, Would've become: ₹1,94,523, Returns: + 8.07 %
+Over the past: 5 years, Total investment: ₹3,00,000, Would've become: ₹4,30,624, Returns: + 43.54 %
+Over the past: 10 years, Total investment: ₹6,00,000, Would've become: ₹15,33,179, Returns: + 155.53 %
+Holdings (
+81
+)
+Name: Repo, Sector: Unspecified, Instruments: Repo, Assets: 8.37%
+Name: The Federal Bank Ltd, Sector: Financial, Instruments: Equity, Assets: 3.98%
+Name: AU Small Finance Bank Ltd, Sector: Financial, Instruments: Equity, Assets: 3.94%
+Name: Max Financial Services Ltd, Sector: Financial, Instruments: Equity, Assets: 3.52%
+Name: Ipca Laboratories Ltd, Sector: Healthcare, Instruments: Equity, Assets: 3.43%
+Name: Glenmark Pharmaceuticals Ltd, Sector: Healthcare, Instruments: Equity, Assets: 3.07%
+Name: Balkrishna Industries Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 2.98%
+Name: Indian Bank, Sector: Financial, Instruments: Equity, Assets: 2.92%
+Name: Coforge Ltd, Sector: Technology, Instruments: Equity, Assets: 2.68%
+Name: Fortis Healthcare Ltd, Sector: Healthcare, Instruments: Equity, Assets: 2.40%
+Name: Marico Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 2.37%
+Name: Vishal Mega Mart Ltd., Sector: Consumer Staples, Instruments: Equity, Assets: 2.24%
+Name: Aurobindo Pharma Ltd, Sector: Healthcare, Instruments: Equity, Assets: 2.19%
+Name: Mahindra & Mahindra Financial Services Ltd, Sector: Financial, Instruments: Equity, Assets: 2.11%
+Name: Hindustan Petroleum Corporation Ltd, Sector: Energy & Utilities, Instruments: Equity, Assets: 2.09%
+Name: United Spirits Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 1.90%
+Name: Cummins India Ltd, Sector: Industrials, Instruments: Equity, Assets: 1.82%
+Name: Tata Communications Ltd, Sector: Technology, Instruments: Equity, Assets: 1.81%
+Name: Persistent Systems Ltd, Sector: Technology, Instruments: Equity, Assets: 1.78%
+Name: Gland Pharma Ltd, Sector: Healthcare, Instruments: Equity, Assets: 1.73%
+Name: Alkem Laboratories Ltd, Sector: Healthcare, Instruments: Equity, Assets: 1.72%
+Name: Dabur India Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 1.66%
+Name: Apollo Tyres Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 1.66%
+Name: Jindal Steel & Power Ltd, Sector: Materials, Instruments: Equity, Assets: 1.64%
+Name: Mphasis Ltd, Sector: Technology, Instruments: Equity, Assets: 1.55%
+Name: Union Bank of India, Sector: Financial, Instruments: Equity, Assets: 1.51%
+Name: Bosch Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 1.44%
+Name: Zomato Ltd, Sector: Technology, Instruments: Equity, Assets: 1.35%
+Name: AIA Engineering Ltd, Sector: Industrials, Instruments: Equity, Assets: 1.29%
+Name: Delhivery Ltd, Sector: Industrials, Instruments: Equity, Assets: 1.27%
+Name: Karur Vysya Bank Ltd, Sector: Financial, Instruments: Equity, Assets: 1.25%
+Name: Bharat Forge Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 1.22%
+Name: Coromandel International Ltd, Sector: Materials, Instruments: Equity, Assets: 1.19%
+Name: Redington Ltd, Sector: Technology, Instruments: Equity, Assets: 1.10%
+Name: Star Health & Allied Insurance Co. Ltd, Sector: Financial, Instruments: Equity, Assets: 1.08%
+Name: PB Fintech Ltd, Sector: Financial, Instruments: Equity, Assets: 1.07%
+Name: Indusind Bank Ltd, Sector: Financial, Instruments: Equity, Assets: 1.04%
+Name: Nippon Life India Asset Management Ltd, Sector: Financial, Instruments: Equity, Assets: 1.04%
+Name: The Indian Hotels Company Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 1.01%
+Name: Godrej Consumer Products Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 0.98%
+Name: ICICI Lombard General Insurance Company Ltd, Sector: Financial, Instruments: Equity, Assets: 0.95%
+Name: Aster DM Healthcare Ltd, Sector: Healthcare, Instruments: Equity, Assets: 0.90%
+Name: Havells India Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.84%
+Name: Sona BLW Precision Forgings Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.82%
+Name: Sundram Fasteners Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.81%
+Name: Escorts Kubota Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.79%
+Name: HEXAWARE TECHNOLOGIES LIMITED EQ NEW FV RS.2/-, Sector: Technology, Instruments: Equity, Assets: 0.78%
+Name: City Union Bank Ltd, Sector: Financial, Instruments: Equity, Assets: 0.74%
+Name: Indraprastha Gas Ltd, Sector: Energy & Utilities, Instruments: Equity, Assets: 0.73%
+Name: Dixon Technologies (India) Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.66%
+Name: SKF India (Industrial) Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.64%
+Name: Timken India Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.60%
+Name: Gujarat Fluorochemicals Ltd, Sector: Materials, Instruments: Equity, Assets: 0.60%
+Name: Crompton Greaves Consumer Electricals Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.59%
+Name: Supreme Industries Ltd, Sector: Materials, Instruments: Equity, Assets: 0.56%
+Name: ACC Ltd, Sector: Materials, Instruments: Equity, Assets: 0.56%
+Name: Arvind Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.43%
+Name: Petronet LNG Ltd, Sector: Energy & Utilities, Instruments: Equity, Assets: 0.36%
+Name: Oracle Financial Services Software Ltd, Sector: Technology, Instruments: Equity, Assets: 0.36%
+Name: Aarti Industries Ltd, Sector: Materials, Instruments: Equity, Assets: 0.36%
+Name: SKF India Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.35%
+Name: Cholamandalam Financial Holdings Ltd, Sector: Financial, Instruments: Equity, Assets: 0.31%
+Name: Vardhman Textiles Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.30%
+Name: Vesuvius India Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.30%
+Name: KEC International Ltd, Sector: Diversified, Instruments: Equity, Assets: 0.30%
+Name: Mahindra CIE Automotive Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.27%
+Name: Symphony Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.21%
+Name: Five-Star Business Finance Ltd, Sector: Financial, Instruments: Equity, Assets: 0.20%
+Name: Bharti Hexacom Ltd., Sector: Technology, Instruments: Equity, Assets: 0.19%
+Name: Colgate-Palmolive (India) Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 0.18%
+Name: Billionbrains Garage Ventures Ltd., Sector: Financial, Instruments: Equity, Assets: 0.18%
+Name: LG Electronics India Ltd., Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.17%
+Name: Navneet Education Ltd, Sector: Consumer Discretionary, Instruments: Equity, Assets: 0.16%
+Name: Greenply Industries Ltd, Sector: Materials, Instruments: Equity, Assets: 0.16%
+Name: Greenlam Industries Ltd, Sector: Materials, Instruments: Equity, Assets: 0.13%
+Name: Dhanuka Agritech Ltd, Sector: Materials, Instruments: Equity, Assets: 0.10%
+Name: Jagran Prakashan Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.03%
+Name: Emami Ltd, Sector: Consumer Staples, Instruments: Equity, Assets: 0.03%
+Name: Greenpanel Industries Ltd, Sector: Materials, Instruments: Equity, Assets: 0.02%
+Name: KNR Constructions Ltd, Sector: Industrials, Instruments: Equity, Assets: 0.01%
+Name: Net Payables, Sector: Unspecified, Instruments: Net Payables, Assets: -0.08%
+See All
+Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Understand terms
+Annualised returns
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returns
+The total return of a mutual fund over a given period.
+Returns and rankings
+Annualised returns
+Absolute returns
+Name: Fund returns, 3Y: +15.5%, 5Y: +17.1%, 10Y: +16.3%, All: +19.3%
+Name: Category average ( Equity Mid Cap ), 3Y: +14.5%, 5Y: +13.6%, 10Y: +15.3%, All: +17.9%
+Name: Rank ( Equity Mid Cap ), 3Y: 14, 5Y: 4, 10Y: 7, All: --
+Understand terms
+Expense ratio
+A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+Tax
+A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+Exit load
+A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+Stamp duty
+A form of tax payable for the purchase or sale of an asset or security.
+Exit Load
+01 Jan 2013
+Exit load of 1% if redeemed within 1 year.
+Exit load, stamp duty and tax
+Exit load
+Exit load of 1% if redeemed within 1 year.
+Stamp duty on investment:
+0.005% (from July 1st, 2020)
+from July 1st 2020
+Tax implication
+If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+Check past data
+Compare similar funds
+Name: Invesco India Mid Cap Fund Direct Growth, 1Y: +0.32%, 3Y: +21.88%, Fund Size(Cr): 15,748.83
+Name: HSBC Midcap Fund Direct Growth, 1Y: +10.54%, 3Y: +21.56%, Fund Size(Cr): 16,799.59
+Name: WhiteOak Capital Mid Cap Fund Direct Growth, 1Y: +4.25%, 3Y: +20.27%, Fund Size(Cr): 8,399.71
+Name: Edelweiss Mid Cap Direct Plan Growth, 1Y: -1.67%, 3Y: +18.90%, Fund Size(Cr): 19,230.16
+Name: Nippon India Growth Mid Cap Fund Direct Growth, 1Y: -1.19%, 3Y: +16.40%, Fund Size(Cr): 50,176.01
+Fund management
+CS
+Chirag Setalvad
+Jan 2013
+- Present
+View details
+Education
+Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
+Experience
+Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
+Also manages these schemes
+HDFC Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
+HDFC Children's Fund Direct Plan
+DM
+Dhruv Muchhal
+Jun 2023
+- Present
+View details
+Education
+Mr. Dhruv has done B.Com, CA and CFA
+Experience
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+Also manages these schemes
+HDFC Flexi Cap Direct Plan Growth
+HDFC Value Fund Direct Plan Growth
+HDFC Ultra Short to Short Term Fund Direct Growth
+HDFC Focused Fund Direct Growth
+HDFC Floating Interest Rates Fund Direct Plan Growth
+HDFC Balanced Advantage Fund Direct Growth
+HDFC Dynamic Term Fund Direct Plan Growth
+HDFC Medium Term Fund Direct Growth
+HDFC Medium to Long Term Fund Direct Growth
+HDFC Infrastructure Fund Direct Growth
+HDFC Corporate Bond Fund Direct Plan Growth
+HDFC Conservative Hybrid Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth
+HDFC Equity Savings Direct Plan Growth
+HDFC Multi Asset Allocation Fund Direct Growth
+HDFC Aggressive Hybrid Fund Direct Plan Growth
+HDFC Short Term Fund Direct Plan Growth
+HDFC ELSS Tax Saver Fund Direct Plan Growth
+HDFC Large Cap Fund Direct Growth
+HDFC Credit Risk Fund Direct Growth
+HDFC Banking and PSU Debt Fund Direct Growth
+HDFC Arbitrage Fund Direct Growth
+HDFC Large & Mid Cap Fund Direct Growth
+HDFC Small Cap Fund Direct Growth
+HDFC Ultra Short Term Fund Direct Growth
+HDFC Liquid Direct Plan Growth
+HDFC Overnight Fund Direct Growth
+HDFC Money Market Fund Direct Growth
+HDFC Housing Opportunities Fund Direct Growth
+HDFC Banking & Financial Services Fund Direct Growth
+HDFC Multi Cap Fund Direct Growth
+HDFC Business Cycle Fund Direct Growth
+HDFC Long Term Fund Direct Growth
+HDFC MNC Fund Direct Growth
+HDFC Defence Fund Direct Growth
+HDFC Consumption Fund Direct Growth
+HDFC Transportation and Logistics Fund Direct Growth
+HDFC Technology Fund Direct Growth
+HDFC Pharma And Healthcare Fund Direct Growth
+HDFC Manufacturing Fund Direct Growth
+HDFC Children's Fund Direct Plan
+HDFC Innovation Fund Direct Growth
+About
+HDFC Mid Cap Fund Direct Growth
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 30 Oct 2026 is ₹215.99.
+The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
+;
+Investment Objective
+The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.
+Fund benchmark
+NIFTY Midcap 150 Total Return Index
+Scheme Information Document(SID)
+Fund house
+HDFC Mutual Fund
+Rank (total assets)
+#2 in India
+Total AUM
+₹9,34,075.66 Cr
+Date of Incorporation
+10 Dec 1999
+Phone
+022 – 66316333
+E-mail
+[email protected]
+Website
+http://www.hdfcfund.com
+Launch Date
+10 Dec 1999
+Address
+"HDFC House", 2nd Floor, H. T. Parekh Marg, 165-166, BackbayReclamation, Churchgate Mumbai 400020
+Custodian
+--
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,

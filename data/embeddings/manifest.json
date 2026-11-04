@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "normalize": true,
+  "chunk_count": 170,
+  "built_at": "2026-11-02T14:06:27Z",
+  "chunks_hash": "sha256:e1824069ebff666125bf5a591f888149de83cf6af0dea786feb81d211ab1e7c9",
+  "collection": "groww_mf_faq"
+}
