@@ -1,0 +1,54 @@
+app:
+  name: "Groww MF FAQ Assistant"
+  disclaimer: "Facts-only. No investment advice."
+  max_answer_sentences: 3
+  example_questions:
+    - "What is the expense ratio of HDFC Flexi Cap?"
+    - "What is the lock-in period for HDFC ELSS Tax Saver?"
+    - "What is the riskometer level of HDFC Mid Cap Fund?"
+
+sources:
+  file: "sources.csv"
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  user_agent: "groww-mf-faq-demo/1.0"
+  request_delay_seconds: 2
+
+chunking:
+  strategy: "auto"        # auto | field_aware | recursive
+  chunk_size: 600         # CHARACTERS, not tokens
+  chunk_overlap: 80
+  min_chunk_chars: 20
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32
+  normalize: true
+  cache_dir: "data/embeddings"
+
+vector_db:
+  provider: "chromadb"
+  persist_dir: "data/chroma"
+  collection: "groww_mf_faq"
+  distance: "cosine"
+
+retrieval:
+  top_k: 5
+  min_relevance_score: 0.35
+  filter_by_scheme: true
+  dedupe_by_field: true
+
+llm:
+  provider: "groq"        # groq | gemini | openai | anthropic | mistral | none
+  temperature: 0.0
+  max_tokens: 300
+  timeout_seconds: 30
+
+safety:
+  enable_pii_guard: true
+  enable_advice_guard: true
+  max_input_chars: 500
+  refuse_message: "I can only share facts from official sources — I can't give investment advice."
+  pii_message: "Please don't share personal identifiers. I can only answer general factual questions."
+  performance_message: "I can't provide return or performance figures. Please use the official fund page for the factsheet."
+  language_message: "I can only answer questions in English."

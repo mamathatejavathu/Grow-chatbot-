@@ -1,0 +1,55 @@
+We are using 
+Groww app to build 
+a small FAQ assistant that answers facts about mutual fund schemes—e.g., expense ratio, exit load, minimum SIP, lock-in (ELSS), riskometer, benchmark, and how to download statements—using only official public pages. Every answer must include one source link. No advice.
+Who this helps
+Retail users comparing schemes; support/content teams answering repetitive MF questions.
+What you must build
+Data :- Scrape these pages and store 
+AMC overview — HDFC Mutual Fund- https://groww.in/mutual-funds/amc/hdfc-mutual-funds 
+| 2 | Large Cap — HDFC Large Cap Fund Direct Growth | https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth |
+| 3 | Flexi Cap — HDFC Flexi Cap Direct Plan Growth | https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth |
+| 4 | ELSS (tax saver) — HDFC ELSS Tax Saver Fund Direct Plan Growth | https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth |
+| 5 | Mid Cap — HDFC Mid Cap Fund Direct Growth | https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth |
+
+FAQ assistant (working prototype):
+Answers factual queries only (e.g., “Expense ratio of ?”, “ELSS lock-in?”, “Minimum SIP?”, “Exit load?”, “Riskometer/benchmark?”, “How to download capital-gains statement?”).
+Shows one clear citation link in every answer.
+Refuses opinionated/portfolio questions (e.g., “Should I buy/sell?”) with a polite, facts-only message and a relevant educational link.
+Tiny UI: welcome line + 3 example questions and a note: “Facts-only. No investment advice.”
+Key constraints
+**Public sources only.** No screenshots of the app back-end; no third-party blogs as sources.
+**No PII.** Do not accept/store PAN, Aadhaar, account numbers, OTPs, emails, or phone numbers.
+**No performance claims.** Don’t compute/compare returns; link to the official factsheet if asked.
+**Clarity & transparency.** Keep answers ≤3 sentences; add “Last updated from sources: ”.
+What to submit (deliverables)
+Working prototype link (app/notebook) or a ≤3-min demo video if hosting isn’t possible.
+Source list (CSV/MD) of the 15–25 URLs you used.
+README with setup steps, scope (AMC + schemes), and known limits.
+Sample Q&A file (5–10 queries with the assistant’s answers + links).
+Disclaimer snippet used in your UI (facts-only, no advice).
+Skills being tested
+W1 — Thinking Like a Model: identify the exact fact asked; decide answer vs. refuse.
+W2 — LLMs & Prompting: instruction style, concise phrasing, polite safe-refusals, citation wording.
+W3 — RAGs (only): small-corpus retrieval with accurate citations from AMC/SEBI/AMFI pages.
+This is a demo of RAG thus want to have each stage data stored explicitly to be shown. 
+Want to implement it in phase wise manner 
+Data Loading 
+Data Chunking ( use chunking strategy based on the data, AI cosing agent can decide the chunking strategy) 
+Data embedding 
+sentence-transformers/all-MiniLM-L6-v2 model 
+Vecotr DB - We are using chromaDB for this exercise 
+Make this thing in the config file, to be changed.
+
+
+Data retrieval 
+Embedding model - same as the one used for data ingestion 
+Vector DB - same as data ingestion. 
+LLM Model 
+Groq - API Keys 
+Model - qwen/qwen3.8-27b, take the model deo  .env file. 
+Gemini , OPen PI, Anthropic , mistal 
+
+
+
+
+
